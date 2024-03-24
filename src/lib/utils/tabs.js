@@ -73,12 +73,12 @@ export const tabs = [
             },
             {
                 icon: 'attach_money',
-                label: 'LeagueSafe 2024',
+                label: 'Dues - 2024',
                 dest: `https://www.leaguesafe.com/league/4172331`,
             },
             {
                 icon: 'attach_money',
-                label: 'LeagueSafe 2025',
+                label: 'Dues - 2025',
                 dest: `https://www.leaguesafe.com/league/4174500`,
             },
         ]
