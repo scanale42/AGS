@@ -8,6 +8,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Any Given Sunday: A fantasy football league created by degenerates for degenerates.</p>
+  <p>Test</p>
+  
 
 `;
 
