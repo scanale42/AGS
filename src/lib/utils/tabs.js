@@ -72,12 +72,12 @@ export const tabs = [
                 dest: `https://sleeper.app/leagues/${leagueID}`,
             },
             {
-                icon: 'Attach_money',
+                icon: 'attach_money',
                 label: 'LeagueSafe 2024',
                 dest: `https://www.leaguesafe.com/league/4172331`,
             },
             {
-                icon: 'Attach_money',
+                icon: 'attach_money',
                 label: 'LeagueSafe 2025',
                 dest: `https://www.leaguesafe.com/league/4174500`,
             },
