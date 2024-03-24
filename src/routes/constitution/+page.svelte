@@ -250,7 +250,7 @@
     <p>Short of continuously failing to set a valid lineup, confirmed collusion, or just being a huge asshole who no one wants to play with any more, no manager can be removed against their will. Participation, through the league chat, trade offers, and the waiver wire, is strongly encouraged but generally not grounds for removal.</p>
     
     <h3 bind:this={sixTwo}>6.2 Replacing Managers</h3>
-    <p>When a manager needs to be replaced, the commisiooners will try to find a suitable candidate with some connection to at least a portion of the existing managers. Priority will be placed on managers who are eager to take on a dynasty commitment and will be very active within the league.</p>
+    <p>When a manager needs to be replaced, the commissioner will try to find a suitable candidate with some connection to at least a portion of the existing managers. Priority will be placed on managers who are eager to take on a dynasty commitment and will be very active within the league.</p>
     
     <h3 bind:this={sixThree}>6.3 Refunds</h3>
     <p>If a manager wishes to leave the league, has paid for the upcoming season, and the league has not started yet, a refund may be requested assuming we can find a replacement for the manager that is willing to take on the cost of the upcoming season. Due to the nature of dynasty and a team's situation, this may not always be an option as the team may be in state where it's impossible to find someone to take over the current team. We will make every effort to try and accomodate a refund request - but there is not guarantee here. If the manager has traded away future picks, no refunds will be issued in order to prevent teams from trading away their picks in order to win now and leave the league.</p>
