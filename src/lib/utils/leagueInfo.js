@@ -79,7 +79,7 @@ export const managers = [
       "rival": {
         name: "Everyone", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/offlycold.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/offycold.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 6786, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -159,7 +159,7 @@ export const managers = [
       "managerID": "669235916149178368",
       "name": "Thomas",
       "location": "Atlanta", // (optional)
-      "bio": "Mr. Deeds - no, not Adam Sandler (or so he'd have you belivee) has been playing Fantasy Football for nearly 15 years. Father of 2 and VP of a construction company, you better tread carefully lest you find yourself the proud owner of some cement shoes. In his spare time he'd rather be watching baseball instead of football and listening to some complex, heavey music.",
+      "bio": "Mr. Deeds - no, not Adam Sandler (or so he'd have you believe) has been playing Fantasy Football for nearly 15 years. Father of 2 and VP of a construction company, you better tread carefully lest you find yourself the proud owner of some cement shoes. In his spare time he'd rather be watching baseball instead of football and listening to some complex, heavey music.",
       "photo": "/managers/no_picture.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2010, // (optional) when did the manager start playing fantasy football
       // "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -167,7 +167,7 @@ export const managers = [
       "rival": {
         name: "OFFlyCOLD", // Can be anything (usually your rival's name)
         link: 2, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/offlycold.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/offycold.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       // "favoritePlayer": 7547, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
