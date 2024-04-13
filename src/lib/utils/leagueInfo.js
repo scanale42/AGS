@@ -50,7 +50,7 @@ export const managers = [
       "name": "Ralph Canale",
       "location": "Golf Course, USA", // (optional)
       "bio": "Ralph recently took up dyanasty leagues and after winning his first two seaons in in his first start-up league, he's caught the bug and looking for some more notches to add to his belt. He's a life-long Chicago White Sox, Bulls, and... Green Bay Packer fan? ",
-      "photo": "/managers/no_picture.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/bullspack.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2010, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
