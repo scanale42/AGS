@@ -27,7 +27,7 @@ export const managers = [
       "managerID": "466003413092528128",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Scott Canale",
       "location": "Hudsonville, Michgigan", // (optional)
-      "bio": "Scott's been playing Fantasy Football since 2004 and according to what he tells his wife after shelling out all the buy-ins, he's never had a losing season. ",
+      "bio": "Scott's been playing Fantasy Football since 2004 and according to what he tells his wife after shelling out all the buy-ins, he's never had a losing season. He is an IT Manager for a defense contractor and no he can't help you fix your computer. He likes good bourbons, whiskeys, and scotches playing games with friends. ",
       "photo": "/managers/Scott_headshot.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2004, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -226,7 +226,7 @@ export const managers = [
       "name": "BoyzIIBen",
       "location": "Location: ???", // (optional)
       "bio": "Biography Incoming ",
-      "photo": "/managers/no_picture.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/bozy2ben.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "lac", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -244,25 +244,25 @@ export const managers = [
     },
     {
       // Roster 10
-      "managerID": "729778687251185664",
-      "name": "bdpr2000",
-      "location": "Location: ???", // (optional)
-      "bio": "Biography Incoming ",
-      "photo": "/managers/no_picture.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "bal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "managerID": "729778687251185664", // bdpr2000
+      "name": "Brian",
+      "location": "Culver City", // (optional)
+      "bio": "Brian hails from San Diego and subsequently became a Chargers fan due to mandatory regulations there. He is a political scientist at USC which sounds like a made-up job if you ask me. He also wants you to know that he spends half of his life in Mexico which is either a flex to say he vacations there a lot or that he's a drug mule - jury's still out on which.",
+      "photo": "/managers/chargers_logo.png", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": 1999, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "lac", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Everyone", // Can be anything (usually your rival's name)
-        link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/everyone.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "BoyzIIBen", // Can be anything (usually your rival's name)
+        link: 9, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/boyz2ben.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 6994, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "favoritePlayer": 8480, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "It's a riddle wrapped in a mystery inside an Enigma",
-      "tradingScale": 5, // 1 - 10
-      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "philosophy": "Big Fast Dudes",
+      "tradingScale": 9, // 1 - 10
+      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
       // Roster 11
