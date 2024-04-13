@@ -166,7 +166,7 @@
     <p>20 Bench</p>
 
     <p>4 IR Spots (Player must be labeled as IR or Covid in the Sleeper App)</p>
-    <p>6 Taxi Spots (Players can be placed on Taxi for a period of 2 seasons. Once the third season begins, they must be added to your roster or dropped. Once added to your roster, they cannot move back to a Taxi spot.)</p>
+    <p>4 Taxi Spots (Players can be placed on Taxi for a period of indefinitely.) Once added to your roster, they cannot move back to a Taxi spot.</p>
     
         
 
