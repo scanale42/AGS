@@ -166,7 +166,7 @@
     <p>20 Bench</p>
 
     <p>4 IR Spots (Player must be labeled as IR or Covid in the Sleeper App)</p>
-    <p>4 Taxi Spots (Players can be placed on Taxi for a period of indefinitely.) Once added to your roster, they cannot move back to a Taxi spot.</p>
+    <p>4 Taxi Squad: Only Rookies can be placed on Taxi Squad and they can remain there indefinitely. They must be added before the first kickoff of the NFL season. After that, no players can be added until the next year's rookie draft is complete. Once removed from the Taxi squad and added to your roster, they cannot move back to the Taxi squad.</p>
     
         
 
